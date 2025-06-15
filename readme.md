@@ -61,13 +61,13 @@ npm install
 **Backend**
 
 ```bash
-cd server
+cd backend
 npm install
 ```
 
 ### 3. Configure environment variables
 
-Create a `.env` file inside the `server` folder and add the following:
+Create a `.env` file inside the `backend` folder and add the following:
 
 ```
 PORT=Enter port number here
@@ -79,7 +79,7 @@ GEMINI_API_KEY=Enter your gemini sdk's api key
 **Backend**
 
 ```bash
-cd server
+cd backend
 npm run dev
 ```
 
@@ -100,7 +100,7 @@ The frontend will typically run at `http://localhost:5173` and the backend at th
 │   │   └── components
 │   │       └── MarkdownWrapper.jsx
 │   └── main.jsx
-├── server
+├── backend
 │   ├── routes
 │   │   └── agentRoutes.js
 │   ├── utils
