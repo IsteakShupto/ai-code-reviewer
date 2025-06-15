@@ -95,7 +95,6 @@ The frontend will typically run at `http://localhost:5173` and the backend at th
 ## Project Structure
 
 ```
-.
 ├── frontend
 │   ├── src
 │   │   └── components
