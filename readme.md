@@ -114,6 +114,4 @@ The frontend will typically run at `http://localhost:5173` and the backend at th
 
 Contributions are welcome. Feel free to open an issue or submit a pull request if you have ideas to improve the app or add more reviewer personas.
 
----
-
 Let me know if you'd like a short badge section (like GitHub stars, license, or PRs welcome), or a GIF demo for the top of the README.
