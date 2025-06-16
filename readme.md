@@ -106,7 +106,7 @@ The frontend will typically run at `http://localhost:5173` and the backend at th
 │   ├── utils
 │   │   └── prompt.js
 │   ├── .env
-│   └── index.js
+│   └── server.js
 ```
 
 ## Contribution
